@@ -74,7 +74,7 @@
     border-radius: 8px;
     color: #161616;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px 0;
   }
   .amount-paid {
     width: 48%;
@@ -82,7 +82,7 @@
     border-radius: 8px;
     color: #161616;
     text-align: center;
-    padding: 8px 0;
+    padding: 20px 0;
   }
   .amount-raised p, .amount-paid p {
     margin: 0;
