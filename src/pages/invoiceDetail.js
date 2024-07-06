@@ -32,7 +32,7 @@ const InvoiceDetail = () => {
       </div>
       <div className="detail-section">
         <h2>Client</h2>
-        <button className="add-btn"><span className="btn-icon"><i class="fa-regular fa-user"></i></span> + Add client details</button>
+        <button className="add-btn"><span className="btn-icon"><i class="fa-solid fa-user"></i></span> + Add client details</button>
       </div>
       <div className="detail-section">
         <h2>Items</h2>
