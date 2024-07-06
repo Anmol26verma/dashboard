@@ -71,11 +71,10 @@
   .amount-raised {
     width: 48%;
     background-color:#BFD8FF;
-    ;
     border-radius: 8px;
     color: #161616;
     text-align: center;
-    padding: 8px 0;
+    padding: 10px 0;
   }
   .amount-paid {
     width: 48%;
